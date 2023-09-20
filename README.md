@@ -12,7 +12,7 @@ via Shapley values.
 - Hyperparameter tuning via Bayesian optimization.
 - Feature importance analysis using tree node impurity and Shapley values.
 
-## Feature Improvements
+## Future Improvements
 
 - Custom user input to the model (involves writting a customer data encoder).
 - Reducing the disk size of saved models.
