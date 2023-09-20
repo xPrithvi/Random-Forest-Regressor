@@ -3,7 +3,7 @@ This Jupyter notebook serves as part of the data science pipleine by providing a
 perform feature enginnering, model training and feature importance analysis for data exploration. In this particular notebook,
 Sci-Kit Learn's RandomForestRegressor was trained on [Perth house prices](https://www.kaggle.com/datasets/syuzai/perth-house-prices) to
 numerically predict house prices based on floor space, suburb, number of bedrooms, etc. Feature importance analysis was performed using 
-built-in methods that calculate importance using node impurity. However, SHAP was also used to provide a more robust and in-depth analysis
+built-in methods that calculate importance by node impurity. However, SHAP was also used to provide a more robust and in-depth analysis
 via Shapley values.
 
 ## Features
