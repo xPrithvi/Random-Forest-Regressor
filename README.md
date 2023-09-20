@@ -1,5 +1,5 @@
 # Random Forest Regressor
-This Jupyter notebook serves as part of the data science pipleine by providing a quick and easy framework to
+This Jupyter notebook serves as part of the data science pipeline by providing a quick and easy framework to
 perform feature enginnering, model training and feature importance analysis for data exploration. In this particular notebook,
 Sci-Kit Learn's RandomForestRegressor was trained on information regarding [housing in Perth](https://www.kaggle.com/datasets/syuzai/perth-house-prices) to
 numerically predict house prices based on floor space, suburb, number of bedrooms, etc. Feature importance analysis was performed using 
