@@ -14,5 +14,5 @@ via Shapley values.
 
 ## Future Improvements
 
-- Custom user input to the model (involves writting a customer data encoder).
+- Custom user input to the model (involves writting a custom data encoder instead of using pandas.get_dummies()).
 - Reducing the disk size of saved models.
