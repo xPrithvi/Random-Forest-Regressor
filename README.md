@@ -10,7 +10,7 @@ via Shapley values.
 
 - Model saving and loading.
 - Hyperparameter tuning via Bayesian optimization.
-- Feauture importance analysis using tree node impurity and Shapley values.
+- Feature importance analysis using tree node impurity and Shapley values.
 
 ## Feature Improvements
 
